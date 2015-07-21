@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoogleMapsApplication01</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_list">ListActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dbhelper">DBHelper</string>
+    <string name="title_activity_register">RegisterActivity</string>
+</resources>
